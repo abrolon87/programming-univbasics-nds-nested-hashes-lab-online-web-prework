@@ -28,5 +28,5 @@ end
 
 def aoh_update(aoh, row, key, new_value)
   assembled_aoh[1][:name] = new_value# Update the AoH data at row and key to have the value of new_value
-  result# Return the updated AoH
+  # Return the updated AoH
 end
